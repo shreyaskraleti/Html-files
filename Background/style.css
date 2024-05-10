@@ -1,0 +1,26 @@
+
+.main-card{
+    height: 2000px;
+    width: 100%;
+    border: 5px solid blue;
+    background-image: url("https://images.pexels.com/photos/3075449/pexels-photo-3075449.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load");
+    background-repeat: no-repeat;
+    background-color: limegreen;
+    background-size: cover;
+    background-clip: padding-box;
+    background-blend-mode: overlay;
+
+
+}
+
+
+h1{
+    color:blue
+}
+
+.main-card img{
+    height: 300px;
+    width: 300px;
+}
+
+

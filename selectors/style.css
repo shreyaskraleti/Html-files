@@ -1,0 +1,68 @@
+/* tag selector *
+/* h1 { */
+    /* color: aqua;
+    background-color: black; */
+/* } */
+
+/* class selector */
+/* .heading {
+    color: blue;
+    background-color: aqua;
+    font-size: 20px;
+} */
+
+/* .firstelement {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} */
+
+/* .secondelement {
+    font-style: italic;
+} */
+
+/* ID selector */
+/* #headtwo {
+    color: blueviolet;
+    text-align: center;
+    font-size: 30px;
+} */
+
+/* Universal selector */
+
+/* {
+    color: aqua;
+    margin: 0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+} */
+
+
+/* Grouping selector */
+
+/*.heading, #headtwo {
+    text-transform: uppercase;
+} 
+
+/*Attribute selector */
+
+/*[class]{
+    text-decoration: underline dotted blue;
+}*/
+
+/*[id]{
+    text-decoration: underline dotted blueviolet;
+}
+
+descendant selector */
+
+image {
+    height: 200px;
+    width: 200px;
+}
+
+
+
+
+
+
+
+

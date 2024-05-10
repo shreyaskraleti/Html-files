@@ -1,0 +1,18 @@
+.header{
+    display: flex;
+    background-color: antiquewhite;
+
+
+}
+.navbar{
+    display: flex;
+    font-size: x-large;
+}
+.navbars{
+    list-style: none;
+    margin: 15px 20px;
+}
+.body{
+    margin: 0px;
+    padding: 0px;
+}

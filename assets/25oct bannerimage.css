@@ -1,0 +1,29 @@
+.data{
+    height: 1000px;
+    width: 100%;
+    border: 5px solid black;
+    background-image: url("https://images.pexels.com/photos/1450082/pexels-photo-1450082.jpeg?auto=compress&cs=tinysrgb&w=600");
+    background-repeat: no-repeat;
+}
+.data>img{
+    height: 400px;
+    width: 400px;
+   
+}
+h1{
+    font-style: italic;
+    background-color: blueviolet;
+    font-size: xx-large;
+    display: inline;
+    flex-direction: column;
+   
+}
+button{
+    color: lightcoral;
+    font-size: xx-large;
+    right: 0;
+
+
+
+
+}

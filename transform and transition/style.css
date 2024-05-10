@@ -1,0 +1,8 @@
+.box {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+    transform: rotate(45deg);
+    
+}
+

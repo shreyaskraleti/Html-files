@@ -1,0 +1,10 @@
+.box {
+    height: 200px;
+    width: 200px;
+    background-color: blueviolet;
+    transition: background-color 1s ease 2s;
+}
+
+.box:hover {
+    background-color: brown;
+}
